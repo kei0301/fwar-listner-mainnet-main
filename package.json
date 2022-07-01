@@ -1,0 +1,20 @@
+{
+  "name": "server-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.7",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13",
+    "random-string": "^0.2.0",
+    "web3": "^1.5.3"
+  }
+}
